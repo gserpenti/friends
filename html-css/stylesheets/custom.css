@@ -1,0 +1,28 @@
+.mailchimp {
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+
+#mc_embed_signup form {
+	padding-top: 0;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+.mailchimp label {
+	text-align: center;
+}
+
+#mc_embed_signup .button {
+	display: block;
+	width: 140px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#mc_embed_signup .mc-field-group {
+	width: 100%;
+}
+.no-bottom-margin {
+	margin-bottom: 0;
+}

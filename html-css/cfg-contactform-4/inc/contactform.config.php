@@ -1,5 +1,5 @@
 <?php
-$cfg['email_address'] = 'youremail@here.com';
+$cfg['email_address'] = 'gaston.serpenti@gmail.com';
 $cfg['email_from'] = '';
 $cfg['email_address_cc'] = '';
 $cfg['email_address_bcc'] = '';
