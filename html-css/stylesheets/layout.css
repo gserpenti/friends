@@ -219,7 +219,7 @@ nav a:visited {
 }
 
 nav a:hover {
-	color: #ed9384;
+	color: #FE4E4F;
 }
 
 
@@ -264,7 +264,7 @@ nav a:hover {
 }
 
 .nav2 ul a:hover {
-	color: #000000;
+	color: #FE4E4F;
 }
 
 
@@ -475,8 +475,8 @@ ul.work-small li:last-child {
 }
 
 ul.work-small img:hover {
-	-webkit-box-shadow: 0px 0px 0px 3px #ed9384;
-	box-shadow: 0px 0px 0px 3px #ed9384;
+	-webkit-box-shadow: 0px 0px 0px 3px #FE4E4F;
+	box-shadow: 0px 0px 0px 3px #FE4E4F;
 }
 
 .work-small img {
@@ -1184,7 +1184,7 @@ p.copyright {
 		}
 		
 		#intro {
-			background: url(../images/intro-bg.jpg) repeat;
+			background: url(../images/background3.png) repeat;
 			height: auto;
 		}
 		
@@ -1207,7 +1207,7 @@ p.copyright {
 		}
 		
 		#intro {
-			background: url(../images/intro-bg.jpg) repeat;
+			background: url(../images/background3.png) repeat;
 			height: auto;
 		}
 		
